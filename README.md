@@ -14,3 +14,10 @@ VM for Java + Spring app development, provisioned using Ansible
 * Spacewalk
 * Ansible
 * Vagrant
+
+
+would prefer mybatis to hibernate
+need help configuring environment variables and heroku environments and Okta
+jetty instead of tomcat
+This clean artifact repo is here: https://github.com/sebradloff/testSpringSnap
+* Gradle
